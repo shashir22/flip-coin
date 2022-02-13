@@ -1,0 +1,21 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "0074e6eb-0c44-4197-8ed9-d55c4f5e2917": {
+      "ProjectGuid": "0074e6eb-0c44-4197-8ed9-d55c4f5e2917",
+      "DisplayName": "FlipCoin",
+      "ColorIndex": 0
+    },
+    "108d966e-4806-402b-90dc-21b3a3ff01b4": {
+      "ProjectGuid": "108d966e-4806-402b-90dc-21b3a3ff01b4",
+      "DisplayName": "UC2",
+      "ColorIndex": 1
+    },
+    "1714a26a-b7b4-4ed5-9d56-d6a11176d4e9": {
+      "ProjectGuid": "1714a26a-b7b4-4ed5-9d56-d6a11176d4e9",
+      "DisplayName": "UC3",
+      "ColorIndex": 2
+    }
+  },
+  "NextColorIndex": 3
+}
