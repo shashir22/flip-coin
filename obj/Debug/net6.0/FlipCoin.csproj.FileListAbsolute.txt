@@ -1,0 +1,14 @@
+C:\Users\shashiRgowda\Desktop\.Net Projects\UC1\FlipCoin\bin\Debug\net6.0\FlipCoin.exe
+C:\Users\shashiRgowda\Desktop\.Net Projects\UC1\FlipCoin\bin\Debug\net6.0\FlipCoin.deps.json
+C:\Users\shashiRgowda\Desktop\.Net Projects\UC1\FlipCoin\bin\Debug\net6.0\FlipCoin.runtimeconfig.json
+C:\Users\shashiRgowda\Desktop\.Net Projects\UC1\FlipCoin\bin\Debug\net6.0\FlipCoin.dll
+C:\Users\shashiRgowda\Desktop\.Net Projects\UC1\FlipCoin\bin\Debug\net6.0\ref\FlipCoin.dll
+C:\Users\shashiRgowda\Desktop\.Net Projects\UC1\FlipCoin\bin\Debug\net6.0\FlipCoin.pdb
+C:\Users\shashiRgowda\Desktop\.Net Projects\UC1\FlipCoin\obj\Debug\net6.0\FlipCoin.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\shashiRgowda\Desktop\.Net Projects\UC1\FlipCoin\obj\Debug\net6.0\FlipCoin.AssemblyInfoInputs.cache
+C:\Users\shashiRgowda\Desktop\.Net Projects\UC1\FlipCoin\obj\Debug\net6.0\FlipCoin.AssemblyInfo.cs
+C:\Users\shashiRgowda\Desktop\.Net Projects\UC1\FlipCoin\obj\Debug\net6.0\FlipCoin.csproj.CoreCompileInputs.cache
+C:\Users\shashiRgowda\Desktop\.Net Projects\UC1\FlipCoin\obj\Debug\net6.0\FlipCoin.dll
+C:\Users\shashiRgowda\Desktop\.Net Projects\UC1\FlipCoin\obj\Debug\net6.0\ref\FlipCoin.dll
+C:\Users\shashiRgowda\Desktop\.Net Projects\UC1\FlipCoin\obj\Debug\net6.0\FlipCoin.pdb
+C:\Users\shashiRgowda\Desktop\.Net Projects\UC1\FlipCoin\obj\Debug\net6.0\FlipCoin.genruntimeconfig.cache
